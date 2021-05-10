@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nepali Song Book</string>
+    <string name="search_label">Search</string>
+    <string name="popular_lyrics_label">Popular Lyrics</string>
+    <string name="artist_label">Artist</string>
+
+    <!--Genre-->
+    <string name="rock">Rock</string>
+    <string name="pop">Pop</string>
+    <string name="hiphop">Hip Hop</string>
+    <string name="metal">Metal</string>
+    <string name="genre_label">Genre</string>
+
+</resources>
